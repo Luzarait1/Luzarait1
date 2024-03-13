@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Lcanasq@unal.edu.co**
 
-
 <!-- Languages I Use -->
 <h1>Languages</h1>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
@@ -26,10 +25,6 @@
 <a href="https://github.com/Luzarait1/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight" />
 </a>
-
-![Luzarait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luzarait1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight)
-
 
 <!-- Connect with my Linkedin -->
 <h1>Connect with me</h1>
