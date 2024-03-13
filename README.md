@@ -9,7 +9,7 @@
 
 - 💬 I have knowledge in **Java, Python, HTML, JavaScript, CSS**
 
-- ⚡ I love learning and enjoy leading proyects
+- ⚡ I love learning and enjoy leading projects
 
 - 📫 How to reach me **Lcanasq@unal.edu.co**
 
@@ -21,10 +21,10 @@
 <!-- My Stats -->
 <h1>Github Stats</h1>
 <a href="https://github.com/Luzarait1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luzarait1&show_icons=true&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Luzarait1&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Luzarait1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight" />
 </a>
 
 ![Luzarait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luzarait1&show_icons=true&theme=tokyonight)
