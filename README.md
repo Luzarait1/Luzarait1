@@ -27,6 +27,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight" />
 </a>
 
+![Luzarait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luzarait1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzarait1&layout=compact&theme=tokyonight)
+
+
 <!-- Connect with my Linkedin -->
 <h1>Connect with me</h1>
 <p align="left">
